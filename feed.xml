@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-03-05T15:31:01Z</updated>
+    <updated>2025-03-05T15:31:02Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-03-05T15:30:51Z</updated>
+            <updated>2025-03-05T15:30:49Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@ git push
                 My Toolbox
                 
             </title>
-            <updated>2025-03-05T15:30:51Z</updated>
+            <updated>2025-03-05T15:30:49Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -98,7 +98,7 @@ git push
                 Home Page
                 
             </title>
-            <updated>2025-03-05T15:30:51Z</updated>
+            <updated>2025-03-05T15:30:49Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
