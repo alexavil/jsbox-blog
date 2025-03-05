@@ -4,7 +4,11 @@
 
 ***Welcome to my Digital Garden!***
 
-This is a collection of highlights of anything interesting I come across and thoughts about my life, projects, etc. 
+This is a collection of highlights of anything interesting I come across and notes about my life, projects, etc. 
+
+***Why JSBox?***
+
+JSBox is intended to be a "JavaScript Box" as I mostly do projects in JS.
 
 > [!info]
 > Use the Search Bar, the sidebar or the links below to navigate.
