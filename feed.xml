@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://blog.jsbox.xyz/">
-    <title>Digital Garden</title>
+    <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-03-05T08:39:06Z</updated>
+    <updated>2025-03-05T09:08:57Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Home Page
                 
             </title>
-            <updated>2025-03-05T08:38:59Z</updated>
+            <updated>2025-03-05T09:08:49Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
