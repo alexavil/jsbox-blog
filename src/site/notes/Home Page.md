@@ -11,7 +11,8 @@ This is a collection of highlights of anything interesting I come across and tho
 
 Check out my recent posts:
 
-- [[Posts/My Toolbox\|My Toolbox]]: (March 05, 2025)
+- [[Posts/Useful Git Commands\|Useful Git Commands]]: (2:48 PM - March 05, 2025)
+- [[Posts/My Toolbox\|My Toolbox]]: (1:12 PM - March 05, 2025)
 
 { .block-language-dataview}
 
