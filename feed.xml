@@ -3,14 +3,42 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-03-05T09:25:44Z</updated>
+    <updated>2025-03-05T10:54:26Z</updated>
     <id>https://blog.jsbox.xyz/</id>
+        <entry>
+            <title>
+                Useful Git Commands
+                
+            </title>
+            <updated>2025-03-05T10:54:15Z</updated>
+            <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
+            <content type="html">
+                &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git config --global user.name username
+git config --global user.email email
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Init Repo:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git init
+git add .
+git remote add origin remote-url &amp;lt;link&amp;gt;
+git commit -m &amp;quot;any_message&amp;quot;
+git push --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Commit &amp;amp; Push:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git commit -m &amp;quot;any_message&amp;quot;
+git push
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/useful-git-commands/" >
+        </entry>
         <entry>
             <title>
                 My Toolbox
                 
             </title>
-            <updated>2025-03-05T09:25:30Z</updated>
+            <updated>2025-03-05T10:54:15Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -70,7 +98,7 @@
                 Home Page
                 
             </title>
-            <updated>2025-03-05T09:25:30Z</updated>
+            <updated>2025-03-05T10:54:15Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -81,7 +109,8 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
