@@ -1,9 +1,17 @@
 [
 {
 		"title": "Home Page",
-		"date":"Wed Mar 05 2025 09:10:19 GMT+0000 (Coordinated Universal Time)",
+		"date":"Wed Mar 05 2025 09:25:30 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Welcome to my Digital Garden!\nThis is a collection of highlights of anything interesting I come across and thoughts about my life, projects, etc.\n\n[!info]\nUse the Search Bar, the sidebar or the links below to navigate.\n\nCheck out my recent posts:",
+		"content": "Welcome to my Digital Garden!\nThis is a collection of highlights of anything interesting I come across and thoughts about my life, projects, etc.\n\n[!info]\nUse the Search Bar, the sidebar or the links below to navigate.\n\nCheck out my recent posts:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-toolbox/\">My Toolbox</a>: (March 05, 2025)",
 		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "My Toolbox",
+		"date":"Wed Mar 05 2025 09:25:30 GMT+0000 (Coordinated Universal Time)",
+		"url":"/posts/my-toolbox/",
+		"content": "Here's a list of the tools I use for working with text, video, sound, etc.\n\nName\nLink\n\nObsidian (you're here!)\nObsidian - Sharpen your thinking\n\nLunacy\nLunacy – Free Design Software for Win, Mac, Linux\n\nVEGAS Pro 19 (Steam Edition)\nVEGAS 19 Edit Steam Edition\n\nSOUND FORGE Audio Studio 14 (Steam Edition)\nSOUND FORGE Audio Studio 14 Steam Edition\n\nWinxvideo AI\nWinxvideo AI\n\nVideoProc Converter AI\nVideoProc Converter AI - Video Image Enhancer, Converter, Downloader\n\nUltimate Vocal Remover\nThe Ultimate Vocal Remover Application\n\nYouTube to MP3 Downloader\nYouTube to MP3 Downloader\n\ncobalt.tools\ncobalt\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
+		"tags": [ "note"]
 }
 ]

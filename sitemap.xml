@@ -3,12 +3,17 @@
     
         <url>
             <loc>https://blog.jsbox.xyz//404/</loc>
-            <lastmod>2025-03-05T09:10:19.594Z</lastmod>
+            <lastmod>2025-03-05T09:25:30.199Z</lastmod>
         </url>
     
         <url>
             <loc>https://blog.jsbox.xyz//</loc>
-            <lastmod>2025-03-05T09:10:19.596Z</lastmod>
+            <lastmod>2025-03-05T09:25:30.202Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://blog.jsbox.xyz//posts/my-toolbox/</loc>
+            <lastmod>2025-03-05T09:25:30.202Z</lastmod>
         </url>
     
 </urlset>
