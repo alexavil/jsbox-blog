@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-03-06T17:48:45Z</updated>
+    <updated>2025-03-13T18:55:53Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-03-06T17:48:31Z</updated>
+            <updated>2025-03-13T18:55:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -35,10 +35,49 @@ git push
         </entry>
         <entry>
             <title>
+                My feelings on Vegas Pro
+                
+            </title>
+            <updated>2025-03-13T18:55:45Z</updated>
+            <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
+            <content type="html">
+                &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It often crashed and/or crashed the GPU driver, often requiring a reboot.&lt;/li&gt;
+&lt;li&gt;It failed to detect my sound devices.&lt;/li&gt;
+&lt;li&gt;Rendering was slow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vegas Pro 19, surprisingly for some, has none of these issues, and comes along with bonuses such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy-to-use interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-interface.png&quot; alt=&quot;vegas-interface.png&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sound Forge integration&lt;/li&gt;
+&lt;li&gt;GPU Rendering&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.jsbox.xyz/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Actually usable Pan/Crop and Plugin Chains&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-pancrop.png&quot; alt=&quot;vegas-pancrop.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;And best of all, it has sales frequently! So I included it in &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Free DaVinci Resolve lacks GPU rendering: &lt;a href=&quot;https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_19_Supported_Codec_List.pdf&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DaVinci Resolve 19 Supported Codec List&lt;/a&gt;&lt;br /&gt;
+Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/" >
+        </entry>
+        <entry>
+            <title>
                 My Toolbox
                 
             </title>
-            <updated>2025-03-06T17:48:31Z</updated>
+            <updated>2025-03-13T18:55:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -59,7 +98,7 @@ git push
 &lt;td&gt;&lt;a href=&quot;https://icons8.com/lunacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lunacy – Free Design Software for Win, Mac, Linux&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;/td&gt;
+&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1698340/VEGAS_19_Edit_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;VEGAS 19 Edit Steam Edition&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -98,7 +137,7 @@ git push
                 Home Page
                 
             </title>
-            <updated>2025-03-06T17:48:31Z</updated>
+            <updated>2025-03-13T18:55:45Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -111,6 +150,7 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
 &lt;/ul&gt;

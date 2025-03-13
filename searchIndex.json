@@ -1,23 +1,31 @@
 [
 {
 		"title": "Home Page",
-		"date":"Thu Mar 06 2025 17:48:31 GMT+0000 (Coordinated Universal Time)",
+		"date":"Thu Mar 13 2025 18:55:45 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Welcome to my Digital Garden!\nThis is a collection of highlights of anything interesting I come across and notes about my life, projects, etc.\nWhy JSBox?\nJSBox is intended to be a &quot;JavaScript Box&quot; as I mostly do projects in JS.\n\n[!info]\nUse the Search Bar, the sidebar or the links below to navigate.\n\nCheck out my recent posts:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/useful-git-commands/\">Useful Git Commands</a>: (2:48 PM - March 05, 2025)\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-toolbox/\">My Toolbox</a>: (1:12 PM - March 05, 2025)",
+		"content": "Welcome to my Digital Garden!\nThis is a collection of highlights of anything interesting I come across and notes about my life, projects, etc.\nWhy JSBox?\nJSBox is intended to be a &quot;JavaScript Box&quot; as I mostly do projects in JS.\n\n[!info]\nUse the Search Bar, the sidebar or the links below to navigate.\n\nCheck out my recent posts:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-feelings-on-vegas-pro/\">My feelings on Vegas Pro</a>: (5:17 PM - March 07, 2025)\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/useful-git-commands/\">Useful Git Commands</a>: (2:48 PM - March 05, 2025)\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-toolbox/\">My Toolbox</a>: (1:12 PM - March 05, 2025)",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
 		"title": "My Toolbox",
-		"date":"Thu Mar 06 2025 17:48:31 GMT+0000 (Coordinated Universal Time)",
+		"date":"Thu Mar 13 2025 18:55:45 GMT+0000 (Coordinated Universal Time)",
 		"url":"/posts/my-toolbox/",
-		"content": "Here's a list of the tools I use for working with text, video, sound, etc.\n\nName\nLink\n\nObsidian (you're here!)\nObsidian - Sharpen your thinking\n\nLunacy\nLunacy – Free Design Software for Win, Mac, Linux\n\nVEGAS Pro 19 (Steam Edition)\nVEGAS 19 Edit Steam Edition\n\nSOUND FORGE Audio Studio 14 (Steam Edition)\nSOUND FORGE Audio Studio 14 Steam Edition\n\nWinxvideo AI\nWinxvideo AI\n\nVideoProc Converter AI\nVideoProc Converter AI - Video Image Enhancer, Converter, Downloader\n\nUltimate Vocal Remover\nThe Ultimate Vocal Remover Application\n\nYouTube to MP3 Downloader\nYouTube to MP3 Downloader\n\ncobalt.tools\ncobalt\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
+		"content": "Here's a list of the tools I use for working with text, video, sound, etc.\n\nName\nLink\n\nObsidian (you're here!)\nObsidian - Sharpen your thinking\n\nLunacy\nLunacy – Free Design Software for Win, Mac, Linux\n\nVEGAS Pro 19 (Steam Edition)<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-feelings-on-vegas-pro/\">Why Vegas?</a>\nVEGAS 19 Edit Steam Edition\n\nSOUND FORGE Audio Studio 14 (Steam Edition)\nSOUND FORGE Audio Studio 14 Steam Edition\n\nWinxvideo AI\nWinxvideo AI\n\nVideoProc Converter AI\nVideoProc Converter AI - Video Image Enhancer, Converter, Downloader\n\nUltimate Vocal Remover\nThe Ultimate Vocal Remover Application\n\nYouTube to MP3 Downloader\nYouTube to MP3 Downloader\n\ncobalt.tools\ncobalt\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "My feelings on Vegas Pro",
+		"date":"Thu Mar 13 2025 18:55:45 GMT+0000 (Coordinated Universal Time)",
+		"url":"/posts/my-feelings-on-vegas-pro/",
+		"content": "I've used DaVinci Resolve for some time, but I had a few painful issues with it:\n\nIt often crashed and/or crashed the GPU driver, often requiring a reboot.\nIt failed to detect my sound devices.\nRendering was slow.\n\nVegas Pro 19, surprisingly for some, has none of these issues, and comes along with bonuses such as:\n\nEasy-to-use interface\n\nSound Forge integration\nGPU Rendering[1]\nActually usable Pan/Crop and Plugin Chains\n\nAnd best of all, it has sales frequently! So I included it in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-toolbox/\">My Toolbox</a>.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>\n\nFree DaVinci Resolve lacks GPU rendering: DaVinci Resolve 19 Supported Codec List\nVegas supports Intel QSV on my config. ↩︎",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Useful Git Commands",
-		"date":"Thu Mar 06 2025 17:48:31 GMT+0000 (Coordinated Universal Time)",
+		"date":"Thu Mar 13 2025 18:55:45 GMT+0000 (Coordinated Universal Time)",
 		"url":"/posts/useful-git-commands/",
 		"content": "Setup:\ngit config --global user.name username\ngit config --global user.email email\n\nInit Repo:\ngit init\ngit add .\ngit remote add origin remote-url &lt;link&gt;\ngit commit -m &quot;any_message&quot;\ngit push --set-upstream origin master\n\nCommit &amp; Push:\ngit commit -m &quot;any_message&quot;\ngit push\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
 		"tags": [ "note"]
