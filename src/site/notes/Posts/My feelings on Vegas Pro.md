@@ -16,7 +16,7 @@ Vegas Pro 19, surprisingly for some, has none of these issues, and comes along w
 - Actually usable Pan/Crop and Plugin Chains
 
 ![vegas-pancrop.png](/img/user/Attachments/vegas-pancrop.png)
-
+<sub>(seriously, this is WAY better than the node system)</sub>
 
 And best of all, it has sales frequently! So I included it in [[Posts/My Toolbox\|My Toolbox]].
 
