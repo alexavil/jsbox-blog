@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-03-17T18:35:58Z</updated>
+    <updated>2025-03-17T18:39:23Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-03-17T18:35:50Z</updated>
+            <updated>2025-03-17T18:39:15Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -43,7 +43,7 @@ action:
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-03-17T18:35:50Z</updated>
+            <updated>2025-03-17T18:39:15Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -97,7 +97,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-03-17T18:35:50Z</updated>
+            <updated>2025-03-17T18:39:15Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -162,7 +162,7 @@ action:
                 Home Page
                 
             </title>
-            <updated>2025-03-17T18:35:50Z</updated>
+            <updated>2025-03-17T18:39:15Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
