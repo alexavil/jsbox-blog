@@ -23,10 +23,4 @@ git commit -m "any_message"
 git push
 ```
 
-```meta-bind-button
-style: primary
-label: Home
-action:
-  type: open
-  link: "[[Home Page]]"
-```
+[[Home Page\|Home]]

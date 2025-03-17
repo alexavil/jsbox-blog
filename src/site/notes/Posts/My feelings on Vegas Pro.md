@@ -20,22 +20,7 @@ Vegas Pro 19, surprisingly for some, has none of these issues, and comes along w
 
 And best of all, it has sales frequently! So I included it in [[Posts/My Toolbox\|My Toolbox]].
 
-```meta-bind-button
-label: Home
-icon: ""
-style: destructive
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: ""
-hidden: false
-actions:
-  - type: open
-    link: Home Page.md
-    newTab: false
-
-```
+[[Home Page\|Home]]
 
 [^1]: Free DaVinci Resolve lacks GPU rendering: [DaVinci Resolve 19 Supported Codec List](https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_19_Supported_Codec_List.pdf)
 	Vegas supports Intel QSV on my config.
