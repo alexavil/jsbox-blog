@@ -15,5 +15,10 @@ Here's a list of the tools I use for working with text, video, sound, etc.
 | Ultimate Vocal Remover                                                   | [The Ultimate Vocal Remover Application](https://ultimatevocalremover.com/)                                                        |
 | YouTube to MP3 Downloader                                                | [YouTube to MP3 Downloader](https://y2down.cc/ru/youtube-mp3.html)                                                                 |
 | cobalt.tools                                                             | [cobalt](https://cobalt.tools/)                                                                                                    |
-
-[[Home Page\|Home]]
+```meta-bind-button
+style: primary
+label: Home
+action:
+  type: open
+  link: "[[Home Page]]"
+```
