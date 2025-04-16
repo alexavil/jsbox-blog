@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-04-16T17:17:47Z</updated>
+    <updated>2025-04-16T17:18:03Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -54,7 +54,7 @@ Like, what?&lt;/p&gt;
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//posts/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
@@ -71,7 +71,7 @@ Use Remux or any converter (I personally prefer VideoProc AI Converter).&lt;/p&g
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -111,7 +111,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -167,7 +167,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 Home Page
                 
             </title>
-            <updated>2025-04-16T17:17:38Z</updated>
+            <updated>2025-04-16T17:17:53Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
