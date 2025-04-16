@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-04-03T06:50:21Z</updated>
+    <updated>2025-04-16T17:10:49Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-04-03T06:50:13Z</updated>
+            <updated>2025-04-16T17:10:41Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -35,10 +35,26 @@ git push
         </entry>
         <entry>
             <title>
+                The Boss Gave Up
+                
+            </title>
+            <updated>2025-04-16T17:10:41Z</updated>
+            <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So the boss just casually let me end the stage. (He&#39;s in the background...)&lt;br /&gt;
+Like, what?&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/the-boss-gave-up/" >
+        </entry>
+        <entry>
+            <title>
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-04-03T06:50:13Z</updated>
+            <updated>2025-04-16T17:10:41Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -78,7 +94,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-04-03T06:50:13Z</updated>
+            <updated>2025-04-16T17:10:41Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -134,7 +150,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 Home Page
                 
             </title>
-            <updated>2025-04-03T06:50:13Z</updated>
+            <updated>2025-04-16T17:10:41Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -147,9 +163,10 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (10:39 PM - March 17, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (10:39 PM - March 17, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (10:39 PM - March 17, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
