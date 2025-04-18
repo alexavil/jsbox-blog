@@ -2,13 +2,16 @@
 {"dg-publish":true,"permalink":"/posts/useful-git-commands/"}
 ---
 
-***Setup:***
+
+**_Setup:_**
+
 ```bash
 git config --global user.name username
 git config --global user.email email
 ```
 
-***Init Repo:***
+**_Init Repo:_**
+
 ```bash
 git init
 git add .
@@ -17,7 +20,8 @@ git commit -m "any_message"
 git push --set-upstream origin master
 ```
 
-***Commit & Push:***
+**_Commit & Push:_**
+
 ```bash
 git commit -m "any_message"
 git push

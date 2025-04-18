@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/posts/notes-on-cobalt/"}
 ---
 
+
 A lot of programs are really fussy when it comes to `cobalt.tools` and videos downloaded with it.
 Use Remux or any converter (I personally prefer VideoProc AI Converter).
 
