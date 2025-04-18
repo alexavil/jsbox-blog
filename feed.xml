@@ -3,28 +3,28 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-04-16T17:20:32Z</updated>
+    <updated>2025-04-18T19:56:45Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
-                &lt;p&gt;&lt;em&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git config --global user.name username
 git config --global user.email email
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Init Repo:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Init Repo:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git init
 git add .
 git remote add origin remote-url &amp;lt;link&amp;gt;
 git commit -m &amp;quot;any_message&amp;quot;
 git push --set-upstream origin master
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Commit &amp;amp; Push:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Commit &amp;amp; Push:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git commit -m &amp;quot;any_message&amp;quot;
 git push
 &lt;/code&gt;&lt;/pre&gt;
@@ -38,7 +38,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -54,7 +54,7 @@ Like, what?&lt;/p&gt;
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//posts/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
@@ -71,7 +71,7 @@ Use Remux or any converter (I personally prefer VideoProc AI Converter).&lt;/p&g
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -111,7 +111,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -167,12 +167,12 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 Home Page
                 
             </title>
-            <updated>2025-04-16T17:20:24Z</updated>
+            <updated>2025-04-18T19:56:36Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
-                &lt;p&gt;&lt;em&gt;&lt;strong&gt;Welcome to my Digital Garden!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This is a collection of highlights of anything interesting I come across and notes about my life, projects, etc.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Why JSBox?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Why JSBox?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;JSBox is intended to be a &amp;quot;JavaScript Box&amp;quot; as I mostly do projects in JS.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!info]&lt;br /&gt;
