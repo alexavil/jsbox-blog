@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-04-18T19:56:45Z</updated>
+    <updated>2025-05-01T20:21:29Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -54,13 +54,14 @@ Like, what?&lt;/p&gt;
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//posts/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
-Use Remux or any converter (I personally prefer VideoProc AI Converter).&lt;/p&gt;
+Use Remux or any converter.&lt;/p&gt;
 &lt;p&gt;In Settings, set the &lt;a href=&quot;https://cobalt.tools/settings/download#filename&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;filename style&lt;/a&gt; to Basic for better readability.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/Pasted%20image%2020250416211346.png&quot; alt=&quot;Pasted image 20250416211346.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Settings only work for YT videos (tested with 小红书).&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
 
             </content>
@@ -71,7 +72,7 @@ Use Remux or any converter (I personally prefer VideoProc AI Converter).&lt;/p&g
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -111,7 +112,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -167,7 +168,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 Home Page
                 
             </title>
-            <updated>2025-04-18T19:56:36Z</updated>
+            <updated>2025-05-01T20:21:17Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -180,11 +181,11 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (9:11 PM - April 16, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
