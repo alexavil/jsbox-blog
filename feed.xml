@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-05-01T20:21:29Z</updated>
+    <updated>2025-05-03T14:08:19Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -54,7 +54,7 @@ Like, what?&lt;/p&gt;
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//posts/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
@@ -72,7 +72,7 @@ Use Remux or any converter.&lt;/p&gt;
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -112,7 +112,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
                 My Toolbox
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -165,10 +165,51 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
         </entry>
         <entry>
             <title>
+                Card Game Scheme
+                
+            </title>
+            <updated>2025-05-03T14:08:01Z</updated>
+            <id>https://blog.jsbox.xyz//posts/card-game-scheme/</id>
+            <content type="html">
+                &lt;p&gt;Scheme of an educational card game. It was originally created in PowerPoint, but it can be used for any workflow.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Answer File&amp;quot; and &amp;quot;Question File&amp;quot; could be a single SQLite DB, as I did in later projects.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/cardgame-scheme-3.png&quot; alt=&quot;cardgame-scheme-3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/powerpoint-sentencegame&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Released Build&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/card-game-scheme/" >
+        </entry>
+        <entry>
+            <title>
+                AnimHelper
+                
+            </title>
+            <updated>2025-05-03T14:08:01Z</updated>
+            <id>https://blog.jsbox.xyz//posts/anim-helper/</id>
+            <content type="html">
+                &lt;p&gt;AnimHelper is a PowerPoint tool I made for faster animation.&lt;/p&gt;
+&lt;p&gt;I used it to create the first version of my &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/card-game-scheme/&quot;&gt;Card Game&lt;/a&gt;.&lt;br /&gt;
+Sure, it&#39;s not the best of my projects, but it did it&#39;s job.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Functions:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Self-Animate: Select an object to assign it an animation and set the trigger to itself.&lt;br /&gt;
+Animate with a Trigger: Select an object, and then a trigger. The animation will be assigned to your first object with the second one as the trigger.&lt;br /&gt;
+Self-Animate Multiple: Each selected object will be assigned an animation with the trigger set to itself.&lt;br /&gt;
+Animate Multiple with a Trigger: Select multiple objects, and then a trigger. The animation will be assigned to all of your selected objects with the last one as the trigger.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-1.png&quot; alt=&quot;animhelper-example-1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-2.png&quot; alt=&quot;animhelper-example-2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/AnimHelper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/anim-helper/" >
+        </entry>
+        <entry>
+            <title>
                 Home Page
                 
             </title>
-            <updated>2025-05-01T20:21:17Z</updated>
+            <updated>2025-05-03T14:08:01Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -179,13 +220,18 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
 &lt;p&gt;[!info]&lt;br /&gt;
 Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Here are some of my past projects:&lt;/p&gt;
+&lt;ul class=&quot;block-language-dataview&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/anim-helper/&quot;&gt;AnimHelper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/card-game-scheme/&quot;&gt;Card Game Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (11:55 PM - April 18, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (9:11 PM - April 16, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
