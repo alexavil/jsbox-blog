@@ -14,21 +14,20 @@ JSBox is intended to be a "JavaScript Box" as I mostly do projects in JS.
 > [!info]
 > Use the Search Bar, the sidebar or the links below to navigate.
 
-
 Here are some of my past projects:
 
-- [[Posts/AnimHelper\|AnimHelper]]
-- [[Posts/Card Game Scheme\|Card Game Scheme]]
+- [[Posts/Projects/Card Game Scheme\|Card Game Scheme]]
+- [[Posts/Projects/AnimHelper\|AnimHelper]]
 
 { .block-language-dataview}
 
-
 Check out my recent posts:
 
-- [[Posts/Notes on Cobalt\|Notes on Cobalt]]: (9:11 PM - April 16, 2025)
-- [[Posts/The Boss Gave Up\|The Boss Gave Up]]: (9:06 PM - April 16, 2025)
-- [[Posts/My feelings on Vegas Pro\|My feelings on Vegas Pro]]: (5:17 PM - March 07, 2025)
-- [[Posts/Useful Git Commands\|Useful Git Commands]]: (2:48 PM - March 05, 2025)
-- [[Posts/My Toolbox\|My Toolbox]]: (1:12 PM - March 05, 2025)
+- [[Posts/Educaiton/Future Perfect (Director's Cut)\|Future Perfect (Director's Cut)]]: (6:09 PM - May 03, 2025)
+- [[Posts/General/Notes on Cobalt\|Notes on Cobalt]]: (9:11 PM - April 16, 2025)
+- [[Posts/General/The Boss Gave Up\|The Boss Gave Up]]: (9:06 PM - April 16, 2025)
+- [[Posts/General/My feelings on Vegas Pro\|My feelings on Vegas Pro]]: (5:17 PM - March 07, 2025)
+- [[Posts/General/Useful Git Commands\|Useful Git Commands]]: (2:48 PM - March 05, 2025)
+- [[Posts/General/My Toolbox\|My Toolbox]]: (1:12 PM - March 05, 2025)
 
 { .block-language-dataview}
