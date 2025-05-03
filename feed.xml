@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-05-03T14:08:19Z</updated>
+    <updated>2025-05-03T14:18:55Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
+            <updated>2025-05-03T14:18:46Z</updated>
             <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
+            <updated>2025-05-03T14:18:46Z</updated>
             <id>https://blog.jsbox.xyz//posts/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -51,10 +51,51 @@ Like, what?&lt;/p&gt;
         </entry>
         <entry>
             <title>
+                Card Game Scheme
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/projects/card-game-scheme/</id>
+            <content type="html">
+                &lt;p&gt;Scheme of an educational card game. It was originally created in PowerPoint, but it can be used for any workflow.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Answer File&amp;quot; and &amp;quot;Question File&amp;quot; could be a single SQLite DB, as I did in later projects.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/cardgame-scheme-3.png&quot; alt=&quot;cardgame-scheme-3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/powerpoint-sentencegame&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Released Build&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/projects/card-game-scheme/" >
+        </entry>
+        <entry>
+            <title>
+                AnimHelper
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/projects/anim-helper/</id>
+            <content type="html">
+                &lt;p&gt;AnimHelper is a PowerPoint tool I made for faster animation.&lt;/p&gt;
+&lt;p&gt;I used it to create the first version of my &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/card-game-scheme/&quot;&gt;Card Game&lt;/a&gt;.&lt;br /&gt;
+Sure, it&#39;s not the best of my projects, but it did it&#39;s job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Functions:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Self-Animate:&lt;/em&gt; Select an object to assign it an animation and set the trigger to itself.&lt;br /&gt;
+&lt;em&gt;Animate with a Trigger:&lt;/em&gt; Select an object, and then a trigger. The animation will be assigned to your first object with the second one as the trigger.&lt;br /&gt;
+&lt;em&gt;Self-Animate Multiple&lt;/em&gt;: Each selected object will be assigned an animation with the trigger set to itself.&lt;br /&gt;
+&lt;em&gt;Animate Multiple with a Trigger:&lt;/em&gt; Select multiple objects, and then a trigger. The animation will be assigned to all of your selected objects with the last one as the trigger.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-1.png&quot; alt=&quot;animhelper-example-1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-2.png&quot; alt=&quot;animhelper-example-2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/AnimHelper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/projects/anim-helper/" >
+        </entry>
+        <entry>
+            <title>
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
+            <updated>2025-05-03T14:18:46Z</updated>
             <id>https://blog.jsbox.xyz//posts/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
@@ -69,50 +110,10 @@ Use Remux or any converter.&lt;/p&gt;
         </entry>
         <entry>
             <title>
-                My feelings on Vegas Pro
-                
-            </title>
-            <updated>2025-05-03T14:08:01Z</updated>
-            <id>https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/</id>
-            <content type="html">
-                &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;It often crashed and/or crashed the GPU driver, often requiring a reboot.&lt;/li&gt;
-&lt;li&gt;It failed to detect my sound devices.&lt;/li&gt;
-&lt;li&gt;Rendering was slow.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Vegas Pro 19, surprisingly for some, has none of these issues, and comes along with bonuses such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Easy-to-use interface&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-interface.png&quot; alt=&quot;vegas-interface.png&quot; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sound Forge integration&lt;/li&gt;
-&lt;li&gt;GPU Rendering&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.jsbox.xyz/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;Actually usable Pan/Crop and Plugin Chains&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-pancrop.png&quot; alt=&quot;vegas-pancrop.png&quot; /&gt;&lt;br /&gt;
-&lt;sub&gt;(seriously, this is WAY better than the node system)&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;And best of all, it has sales frequently! So I included it in &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
-&lt;hr class=&quot;footnotes-sep&quot; /&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol class=&quot;footnotes-list&quot;&gt;
-&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Free DaVinci Resolve lacks GPU rendering: &lt;a href=&quot;https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_19_Supported_Codec_List.pdf&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DaVinci Resolve 19 Supported Codec List&lt;/a&gt;&lt;br /&gt;
-Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-
-            </content>
-            <link href="https://blog.jsbox.xyz//posts/my-feelings-on-vegas-pro/" >
-        </entry>
-        <entry>
-            <title>
                 My Toolbox
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
+            <updated>2025-05-03T14:18:46Z</updated>
             <id>https://blog.jsbox.xyz//posts/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -133,7 +134,7 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
 &lt;td&gt;&lt;a href=&quot;https://icons8.com/lunacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lunacy – Free Design Software for Win, Mac, Linux&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://blog.jsbox.xyz/404&quot; target=&quot;&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1698340/VEGAS_19_Edit_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;VEGAS 19 Edit Steam Edition&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -165,51 +166,252 @@ Vegas supports Intel QSV on my config. &lt;a href=&quot;https://blog.jsbox.xyz/#
         </entry>
         <entry>
             <title>
-                Card Game Scheme
+                Useful Git Commands
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
-            <id>https://blog.jsbox.xyz//posts/card-game-scheme/</id>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/useful-git-commands/</id>
             <content type="html">
-                &lt;p&gt;Scheme of an educational card game. It was originally created in PowerPoint, but it can be used for any workflow.&lt;/p&gt;
-&lt;p&gt;&amp;quot;Answer File&amp;quot; and &amp;quot;Question File&amp;quot; could be a single SQLite DB, as I did in later projects.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/cardgame-scheme-3.png&quot; alt=&quot;cardgame-scheme-3.png&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/powerpoint-sentencegame&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Released Build&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git config --global user.name username
+git config --global user.email email
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Init Repo:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git init
+git add .
+git remote add origin remote-url &amp;lt;link&amp;gt;
+git commit -m &amp;quot;any_message&amp;quot;
+git push --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Commit &amp;amp; Push:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git commit -m &amp;quot;any_message&amp;quot;
+git push
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
 
             </content>
-            <link href="https://blog.jsbox.xyz//posts/card-game-scheme/" >
+            <link href="https://blog.jsbox.xyz//posts/general/useful-git-commands/" >
         </entry>
         <entry>
             <title>
-                AnimHelper
+                The Boss Gave Up
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
-            <id>https://blog.jsbox.xyz//posts/anim-helper/</id>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/the-boss-gave-up/</id>
             <content type="html">
-                &lt;p&gt;AnimHelper is a PowerPoint tool I made for faster animation.&lt;/p&gt;
-&lt;p&gt;I used it to create the first version of my &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/card-game-scheme/&quot;&gt;Card Game&lt;/a&gt;.&lt;br /&gt;
-Sure, it&#39;s not the best of my projects, but it did it&#39;s job.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Functions:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Self-Animate: Select an object to assign it an animation and set the trigger to itself.&lt;br /&gt;
-Animate with a Trigger: Select an object, and then a trigger. The animation will be assigned to your first object with the second one as the trigger.&lt;br /&gt;
-Self-Animate Multiple: Each selected object will be assigned an animation with the trigger set to itself.&lt;br /&gt;
-Animate Multiple with a Trigger: Select multiple objects, and then a trigger. The animation will be assigned to all of your selected objects with the last one as the trigger.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-1.png&quot; alt=&quot;animhelper-example-1.png&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/animhelper-example-2.png&quot; alt=&quot;animhelper-example-2.png&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/alexavil/AnimHelper&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So the boss just casually let me end the stage. (He&#39;s in the background...)&lt;br /&gt;
+Like, what?&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
 
             </content>
-            <link href="https://blog.jsbox.xyz//posts/anim-helper/" >
+            <link href="https://blog.jsbox.xyz//posts/general/the-boss-gave-up/" >
+        </entry>
+        <entry>
+            <title>
+                Notes on Cobalt
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/notes-on-cobalt/</id>
+            <content type="html">
+                &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
+Use Remux or any converter.&lt;/p&gt;
+&lt;p&gt;In Settings, set the &lt;a href=&quot;https://cobalt.tools/settings/download#filename&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;filename style&lt;/a&gt; to Basic for better readability.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/Pasted%20image%2020250416211346.png&quot; alt=&quot;Pasted image 20250416211346.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Settings only work for YT videos (tested with 小红书).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/general/notes-on-cobalt/" >
+        </entry>
+        <entry>
+            <title>
+                My feelings on Vegas Pro
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/my-feelings-on-vegas-pro/</id>
+            <content type="html">
+                &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It often crashed and/or crashed the GPU driver, often requiring a reboot.&lt;/li&gt;
+&lt;li&gt;It failed to detect my sound devices.&lt;/li&gt;
+&lt;li&gt;Rendering was slow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vegas Pro 19, surprisingly for some, has none of these issues, and comes along with bonuses such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy-to-use interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-interface.png&quot; alt=&quot;vegas-interface.png&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sound Forge integration&lt;/li&gt;
+&lt;li&gt;GPU Rendering&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.jsbox.xyz/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Actually usable Pan/Crop and Plugin Chains&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/vegas-pancrop.png&quot; alt=&quot;vegas-pancrop.png&quot; /&gt;&lt;br /&gt;
+&lt;sub&gt;(seriously, this is WAY better than the node system)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;And best of all, it has sales frequently! So I included it in &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Free DaVinci Resolve lacks GPU rendering: &lt;a href=&quot;https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_19_Supported_Codec_List.pdf&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;DaVinci Resolve 19 Supported Codec List&lt;/a&gt;&lt;br /&gt;
+Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&quot;https://blog.jsbox.xyz/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/general/my-feelings-on-vegas-pro/" >
+        </entry>
+        <entry>
+            <title>
+                My Toolbox
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/my-toolbox/</id>
+            <content type="html">
+                &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Obsidian (you&#39;re here!)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://obsidian.md/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Obsidian - Sharpen your thinking&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunacy&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://icons8.com/lunacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lunacy – Free Design Software for Win, Mac, Linux&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-feelings-on-vegas-pro/&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1698340/VEGAS_19_Edit_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;VEGAS 19 Edit Steam Edition&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;VEGAS Movie Studio 17 Platinum (Steam Edition)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1252010/VEGAS_Movie_Studio_17_Platinum_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;VEGAS Movie Studio 17 Platinum Steam Edition&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SOUND FORGE Audio Studio 14 (Steam Edition)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1228510/SOUND_FORGE_Audio_Studio_14_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;SOUND FORGE Audio Studio 14 Steam Edition&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;s&gt;Winxvideo AI&lt;/s&gt;&lt;br /&gt;&lt;br /&gt;(Temporarily Excluded due to new PC)&lt;/td&gt;
+&lt;td&gt;&lt;s&gt;&lt;a href=&quot;https://www.winxdvd.com/winxvideo-ai/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Winxvideo AI&lt;/a&gt;&lt;/s&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ultimate Vocal Remover&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://ultimatevocalremover.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Ultimate Vocal Remover Application&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YouTube to MP3 Downloader&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://y2down.cc/ru/youtube-mp3.html&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;YouTube to MP3 Downloader&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cobalt.tools&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://cobalt.tools/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;cobalt&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/general/my-toolbox/" >
+        </entry>
+        <entry>
+            <title>
+                Future Perfect (Director&#39;s Cut)
+                
+            </title>
+            <updated>2025-05-03T14:18:46Z</updated>
+            <id>https://blog.jsbox.xyz//posts/educaiton/future-perfect-director-s-cut/</id>
+            <content type="html">
+                &lt;p&gt;&lt;em&gt;(This is the original version of the Future Perfect page for an unfinished project created in 2021. Feel free to use it for educational purposes.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Future Perfect is used when we talk about an action that will be completed before some point in the future. In other words, the actions have a deadline. The deadline can be very specific (eight o’clock) or it can be vague (next week). It can even depend on when something else happens. It just has to be some time in the future.&lt;/p&gt;
+&lt;p&gt;We can visualize it on a timeline like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/future-perfect-scheme.png&quot; alt=&quot;future-perfect-scheme.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Some clues for Future Perfect include: _by the time, by..., before, as soon as, etc.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!Info]&lt;br /&gt;
+We form a positive sentence in Future Perfect like this: &lt;strong&gt;will (’ll) have + Past Participle&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!Warning]&lt;br /&gt;
+Remember: we never use the form &lt;strong&gt;has&lt;/strong&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For regular verbs, we simply add -ed. Bear in mind you need to remember the irregular verbs.&lt;/p&gt;
+&lt;p&gt;Here are some examples of this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;I will have finished this project by 8 o’clock.&lt;/strong&gt; &lt;em&gt;(maybe earlier)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;She will have left our town by next week.&lt;/strong&gt; &lt;em&gt;(could be on any day)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;They will have spent all their money by the end of this year.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mike will have painted the walls by the time she arrives.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!Info]&lt;br /&gt;
+We form a negative sentence in Future Perfect like this: &lt;strong&gt;will not (won’t) have + Past Participle&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here are some examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;I won’t have finished this project by 8 o’clock.&lt;/strong&gt; &lt;em&gt;(I need more time)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;She won’t have left our town by next week.&lt;/strong&gt; &lt;em&gt;(she decided to stay longer)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;They won’t have spent all their money by the end of this year.&lt;/strong&gt; &lt;em&gt;(they’ll save up instead)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mike won’t have painted the walls by the time she arrives.&lt;/strong&gt; &lt;em&gt;(he spent a while choosing the paint)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!Info]&lt;br /&gt;
+We form a question in Future Perfect like this: &lt;strong&gt;will + (subject) + have + Past Participle.&lt;/strong&gt; We answer these questions like in Future Simple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Observe carefully:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Will I&lt;/strong&gt; &lt;strong&gt;have finished this project by 8 o’clock? - Yes, I will./No, I won’t.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Will she have left our town by next week? - Yes, she will./No, she won’t.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Will they have spent all their money by the end of this year? - Yes, they will./No, they won’t.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Will Mike have painted the walls by the time she arrives? - Yes, he will./No, he won’t.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To sum it up, here’s a table with all the forms:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Sentence&lt;/th&gt;
+&lt;th&gt;Form&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Positive&lt;/td&gt;
+&lt;td&gt;will (’ll) have + Past Participle (-ed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Negative&lt;/td&gt;
+&lt;td&gt;will not (won’t) have + Past Participle (-ed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Question&lt;/td&gt;
+&lt;td&gt;will + (subject) + have + Past Participle (-ed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/little-miss-future-perfect.png&quot; alt=&quot;little-miss-future-perfect.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/educaiton/future-perfect-director-s-cut/" >
         </entry>
         <entry>
             <title>
                 Home Page
                 
             </title>
-            <updated>2025-05-03T14:08:01Z</updated>
+            <updated>2025-05-03T14:18:46Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -222,16 +424,17 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here are some of my past projects:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/anim-helper/&quot;&gt;AnimHelper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/card-game-scheme/&quot;&gt;Card Game Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/card-game-scheme/&quot;&gt;Card Game Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/anim-helper/&quot;&gt;AnimHelper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (9:11 PM - April 16, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/educaiton/future-perfect-director-s-cut/&quot;&gt;Future Perfect (Director&#39;s Cut)&lt;/a&gt;: (6:09 PM - May 03, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (9:11 PM - April 16, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-feelings-on-vegas-pro/&quot;&gt;My feelings on Vegas Pro&lt;/a&gt;: (5:17 PM - March 07, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/useful-git-commands/&quot;&gt;Useful Git Commands&lt;/a&gt;: (2:48 PM - March 05, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-toolbox/&quot;&gt;My Toolbox&lt;/a&gt;: (1:12 PM - March 05, 2025)&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
