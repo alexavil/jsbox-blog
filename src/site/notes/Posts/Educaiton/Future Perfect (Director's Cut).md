@@ -11,7 +11,7 @@ We can visualize it on a timeline like this:
 
 ![future-perfect-scheme.png](/img/user/Attachments/future-perfect-scheme.png)
 
-Some clues for Future Perfect include: \_by the time, by..., before, as soon as, etc.
+Some key words for Future Perfect include: *by the time, by ..., before, as soon as*, etc.
 
 > [!Info]  
 > We form a positive sentence in Future Perfect like this: **will (’ll) have + Past Participle**
