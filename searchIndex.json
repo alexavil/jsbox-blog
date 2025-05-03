@@ -56,22 +56,6 @@
 },
 
 {
-		"title": "My Toolbox",
-		"date":"Sat May 03 2025 14:18:48 GMT+0000 (Coordinated Universal Time)",
-		"url":"/posts/my-toolbox/",
-		"content": "Here's a list of the tools I use for working with text, video, sound, etc.\n\nName\nLink\n\nObsidian (you're here!)\nObsidian - Sharpen your thinking\n\nLunacy\nLunacy – Free Design Software for Win, Mac, Linux\n\nVEGAS Pro 19 (Steam Edition)<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-feelings-on-vegas-pro/\">Why Vegas?</a>\nVEGAS 19 Edit Steam Edition\n\nSOUND FORGE Audio Studio 14 (Steam Edition)\nSOUND FORGE Audio Studio 14 Steam Edition\n\nWinxvideo AI\nWinxvideo AI\n\nUltimate Vocal Remover\nThe Ultimate Vocal Remover Application\n\nYouTube to MP3 Downloader\nYouTube to MP3 Downloader\n\ncobalt.tools<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/notes-on-cobalt/\">Notes on Cobalt</a>\ncobalt\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>",
-		"tags": [ "note"]
-},
-
-{
-		"title": "My feelings on Vegas Pro",
-		"date":"Sat May 03 2025 14:18:48 GMT+0000 (Coordinated Universal Time)",
-		"url":"/posts/my-feelings-on-vegas-pro/",
-		"content": "I've used DaVinci Resolve for some time, but I had a few painful issues with it:\n\nIt often crashed and/or crashed the GPU driver, often requiring a reboot.\nIt failed to detect my sound devices.\nRendering was slow.\n\nVegas Pro 19, surprisingly for some, has none of these issues, and comes along with bonuses such as:\n\nEasy-to-use interface\n\nSound Forge integration\nGPU Rendering[1]\nActually usable Pan/Crop and Plugin Chains\n\n(seriously, this is WAY better than the node system)\nAnd best of all, it has sales frequently! So I included it in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/posts/my-toolbox/\">My Toolbox</a>.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>\n\nFree DaVinci Resolve lacks GPU rendering: DaVinci Resolve 19 Supported Codec List\nVegas supports Intel QSV on my config. ↩︎",
-		"tags": [ "note"]
-},
-
-{
 		"title": "Notes on Cobalt",
 		"date":"Sat May 03 2025 14:18:48 GMT+0000 (Coordinated Universal Time)",
 		"url":"/posts/notes-on-cobalt/",
