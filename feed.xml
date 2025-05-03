@@ -3,14 +3,42 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-05-03T14:19:05Z</updated>
+    <updated>2025-05-03T14:19:07Z</updated>
     <id>https://blog.jsbox.xyz/</id>
+        <entry>
+            <title>
+                Useful Git Commands
+                
+            </title>
+            <updated>2025-05-03T14:18:51Z</updated>
+            <id>https://blog.jsbox.xyz//posts/useful-git-commands/</id>
+            <content type="html">
+                &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git config --global user.name username
+git config --global user.email email
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Init Repo:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git init
+git add .
+git remote add origin remote-url &amp;lt;link&amp;gt;
+git commit -m &amp;quot;any_message&amp;quot;
+git push --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Commit &amp;amp; Push:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git commit -m &amp;quot;any_message&amp;quot;
+git push
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/useful-git-commands/" >
+        </entry>
         <entry>
             <title>
                 Card Game Scheme
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/projects/card-game-scheme/</id>
             <content type="html">
                 &lt;p&gt;Scheme of an educational card game. It was originally created in PowerPoint, but it can be used for any workflow.&lt;/p&gt;
@@ -27,7 +55,7 @@
                 AnimHelper
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/projects/anim-helper/</id>
             <content type="html">
                 &lt;p&gt;AnimHelper is a PowerPoint tool I made for faster animation.&lt;/p&gt;
@@ -51,7 +79,7 @@ Sure, it&#39;s not the best of my projects, but it did it&#39;s job.&lt;/p&gt;
                 Useful Git Commands
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/useful-git-commands/</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -79,7 +107,7 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/the-boss-gave-up/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
@@ -95,7 +123,7 @@ Like, what?&lt;/p&gt;
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
@@ -113,7 +141,7 @@ Use Remux or any converter.&lt;/p&gt;
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -153,7 +181,7 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
                 My Toolbox
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -213,7 +241,7 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
                 Future Perfect (Director&#39;s Cut)
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//posts/educaiton/future-perfect-director-s-cut/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;(This is the original version of the Future Perfect page for an unfinished project created in 2021. Feel free to use it for educational purposes.)&lt;/em&gt;&lt;/p&gt;
@@ -293,7 +321,7 @@ We form a question in Future Perfect like this: &lt;strong&gt;will + (subject) +
                 Home Page
                 
             </title>
-            <updated>2025-05-03T14:18:50Z</updated>
+            <updated>2025-05-03T14:18:51Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
