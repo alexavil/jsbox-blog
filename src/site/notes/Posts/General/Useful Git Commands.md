@@ -3,14 +3,14 @@
 ---
 
 
-**_Setup:_**
+### **_Setup:_**
 
 ```bash
 git config --global user.name username
 git config --global user.email email
 ```
 
-**_Init Repo:_**
+### **_Init Repo:_**
 
 ```bash
 git init
@@ -20,7 +20,7 @@ git commit -m "any_message"
 git push --set-upstream origin master
 ```
 
-**_Commit & Push:_**
+### **_Commit & Push:_**
 
 ```bash
 git commit -m "any_message"

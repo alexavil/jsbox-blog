@@ -3,16 +3,18 @@
 ---
 
 
-**_Welcome to my Digital Garden!_**
+### **_Welcome to my Digital Garden!_**
 
 This is a collection of highlights of anything interesting I come across and notes about my life, projects, etc.
 
-**_Why JSBox?_**
+> [!info]
+> Use the Search Bar, the sidebar or the links below to navigate.
+
+##### **_Why JSBox?_**
 
 JSBox is intended to be a "JavaScript Box" as I mostly do projects in JS.
 
-> [!info]
-> Use the Search Bar, the sidebar or the links below to navigate.
+---
 
 Here are some of my past projects:
 
