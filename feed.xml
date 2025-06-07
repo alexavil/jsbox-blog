@@ -3,14 +3,14 @@
     <title>JSBox</title>
     <link href="https://blog.jsbox.xyz//feed.xml" rel="self" >
     <link href="https://blog.jsbox.xyz/" >
-    <updated>2025-05-27T16:24:30Z</updated>
+    <updated>2025-06-07T18:08:57Z</updated>
     <id>https://blog.jsbox.xyz/</id>
         <entry>
             <title>
                 Card Game Scheme
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/projects/card-game-scheme/</id>
             <content type="html">
                 &lt;p&gt;Scheme of an educational card game. It was originally created in PowerPoint, but it can be used for any workflow.&lt;/p&gt;
@@ -27,7 +27,7 @@
                 AnimHelper
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/projects/anim-helper/</id>
             <content type="html">
                 &lt;p&gt;AnimHelper is a PowerPoint tool I made for faster animation.&lt;/p&gt;
@@ -48,10 +48,24 @@ Sure, it&#39;s not the best of my projects, but it did it&#39;s job.&lt;/p&gt;
         </entry>
         <entry>
             <title>
+                Support Response from Digiarty
+                
+            </title>
+            <updated>2025-06-07T18:08:45Z</updated>
+            <id>https://blog.jsbox.xyz//posts/other/support-response-from-digiarty/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/digiarty-support-response.png&quot; alt=&quot;digiarty-support-response.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/other/support-response-from-digiarty/" >
+        </entry>
+        <entry>
+            <title>
                 Useful Git Commands
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/useful-git-commands/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-em-setup-em-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;em&gt;Setup:&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
@@ -79,10 +93,10 @@ git push
                 The Boss Gave Up
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/the-boss-gave-up/</id>
             <content type="html">
-                &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/202504~2.jpg&quot; alt=&quot;202504~2.jpg&quot; /&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/trip-screenshot.jpg&quot; alt=&quot;trip-screenshot.jpg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;So the boss just casually let me end the stage. (He&#39;s in the background...)&lt;br /&gt;
 Like, what?&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
@@ -92,16 +106,38 @@ Like, what?&lt;/p&gt;
         </entry>
         <entry>
             <title>
+                Notes on Digiarty Products
+                
+            </title>
+            <updated>2025-06-07T18:08:45Z</updated>
+            <id>https://blog.jsbox.xyz//posts/general/notes-on-digiarty-products/</id>
+            <content type="html">
+                &lt;p&gt;&lt;strong&gt;Giveaway Codes are only valid during the giveaway period.&lt;/strong&gt;&lt;br /&gt;
+However, you can keep the full functionality of the program as long as you don&#39;t:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Update the program.&lt;/li&gt;
+&lt;li&gt;Remove the license yourself.&lt;/li&gt;
+&lt;li&gt;Format or replace your hard drive.&lt;/li&gt;
+&lt;li&gt;Reinstall the entire system after registering the program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Source: &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/other/support-response-from-digiarty/&quot;&gt;Support Response from Digiarty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://blog.jsbox.xyz//posts/general/notes-on-digiarty-products/" >
+        </entry>
+        <entry>
+            <title>
                 Notes on Cobalt
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/notes-on-cobalt/</id>
             <content type="html">
                 &lt;p&gt;A lot of programs are really fussy when it comes to &lt;code&gt;cobalt.tools&lt;/code&gt; and videos downloaded with it.&lt;br /&gt;
 Use Remux or any converter.&lt;/p&gt;
 &lt;p&gt;In Settings, set the &lt;a href=&quot;https://cobalt.tools/settings/download#filename&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;filename style&lt;/a&gt; to Basic for better readability.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/Pasted%20image%2020250416211346.png&quot; alt=&quot;Pasted image 20250416211346.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.jsbox.xyz/img/user/Attachments/cobalt-file-settings.png&quot; alt=&quot;cobalt-file-settings.png&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Settings only work for YT videos (tested with 小红书).&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
 
@@ -113,7 +149,7 @@ Use Remux or any converter.&lt;/p&gt;
                 My feelings on Vegas Pro
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/my-feelings-on-vegas-pro/</id>
             <content type="html">
                 &lt;p&gt;I&#39;ve used DaVinci Resolve for some time, but I had a few painful issues with it:&lt;/p&gt;
@@ -153,7 +189,7 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
                 My Toolbox
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/general/my-toolbox/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s a list of the tools I use for working with text, video, sound, etc.&lt;/p&gt;
@@ -174,7 +210,7 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
 &lt;td&gt;&lt;a href=&quot;https://icons8.com/lunacy&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lunacy – Free Design Software for Win, Mac, Linux&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;VEGAS Pro 19 (Steam Edition)&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-feelings-on-vegas-pro/&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;VEGAS Pro 19 (Steam Edition) + essentialsFX&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/my-feelings-on-vegas-pro/&quot;&gt;Why Vegas?&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1698340/VEGAS_19_Edit_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;VEGAS 19 Edit Steam Edition&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -186,16 +222,12 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
 &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1228510/SOUND_FORGE_Audio_Studio_14_Steam_Edition/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;SOUND FORGE Audio Studio 14 Steam Edition&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;s&gt;Winxvideo AI&lt;/s&gt;&lt;br /&gt;&lt;br /&gt;(Temporarily Excluded due to new PC)&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;&lt;a href=&quot;https://www.winxdvd.com/winxvideo-ai/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Winxvideo AI&lt;/a&gt;&lt;/s&gt;&lt;/td&gt;
+&lt;td&gt;Winxvideo AI&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-digiarty-products/&quot;&gt;Notes on Digiarty Products&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.winxdvd.com/winxvideo-ai/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Winxvideo AI&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Ultimate Vocal Remover&lt;/td&gt;
 &lt;td&gt;&lt;a href=&quot;https://ultimatevocalremover.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Ultimate Vocal Remover Application&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YouTube to MP3 Downloader&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;https://y2down.cc/ru/youtube-mp3.html&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;YouTube to MP3 Downloader&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cobalt.tools&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;&lt;/td&gt;
@@ -213,7 +245,7 @@ Vegas supports Intel QSV on my older laptop and NVENC on my new PC. &lt;a href=&
                 Future Perfect (Director&#39;s Cut)
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//posts/educaiton/future-perfect-director-s-cut/</id>
             <content type="html">
                 &lt;p&gt;&lt;em&gt;(This is the original version of the Future Perfect page for an unfinished project created in 2021. Feel free to use it for educational purposes.)&lt;/em&gt;&lt;/p&gt;
@@ -293,7 +325,7 @@ We form a question in Future Perfect like this: &lt;strong&gt;will + (subject) +
                 Home Page
                 
             </title>
-            <updated>2025-05-27T16:24:22Z</updated>
+            <updated>2025-06-07T18:08:45Z</updated>
             <id>https://blog.jsbox.xyz//</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-em-welcome-to-my-digital-garden-em-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;em&gt;Welcome to my Digital Garden!&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
@@ -307,11 +339,13 @@ Use the Search Bar, the sidebar or the links below to navigate.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Here are some of my past projects:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/card-game-scheme/&quot;&gt;Card Game Scheme&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/anim-helper/&quot;&gt;AnimHelper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/projects/card-game-scheme/&quot;&gt;Card Game Scheme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check out my recent posts:&lt;/p&gt;
 &lt;ul class=&quot;block-language-dataview&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/other/support-response-from-digiarty/&quot;&gt;Support Response from Digiarty&lt;/a&gt;: (10:06 PM - June 07, 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-digiarty-products/&quot;&gt;Notes on Digiarty Products&lt;/a&gt;: (10:02 PM - June 07, 2025)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/educaiton/future-perfect-director-s-cut/&quot;&gt;Future Perfect (Director&#39;s Cut)&lt;/a&gt;: (6:09 PM - May 03, 2025)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/notes-on-cobalt/&quot;&gt;Notes on Cobalt&lt;/a&gt;: (9:11 PM - April 16, 2025)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://blog.jsbox.xyz/posts/general/the-boss-gave-up/&quot;&gt;The Boss Gave Up&lt;/a&gt;: (9:06 PM - April 16, 2025)&lt;/li&gt;
