@@ -18,13 +18,15 @@ JSBox is intended to be a "JavaScript Box" as I mostly do projects in JS.
 
 Here are some of my past projects:
 
-- [[Posts/Projects/Card Game Scheme\|Card Game Scheme]]
 - [[Posts/Projects/AnimHelper\|AnimHelper]]
+- [[Posts/Projects/Card Game Scheme\|Card Game Scheme]]
 
 { .block-language-dataview}
 
 Check out my recent posts:
 
+- [[Posts/Other/Support Response from Digiarty\|Support Response from Digiarty]]: (10:06 PM - June 07, 2025)
+- [[Posts/General/Notes on Digiarty Products\|Notes on Digiarty Products]]: (10:02 PM - June 07, 2025)
 - [[Posts/Educaiton/Future Perfect (Director's Cut)\|Future Perfect (Director's Cut)]]: (6:09 PM - May 03, 2025)
 - [[Posts/General/Notes on Cobalt\|Notes on Cobalt]]: (9:11 PM - April 16, 2025)
 - [[Posts/General/The Boss Gave Up\|The Boss Gave Up]]: (9:06 PM - April 16, 2025)
